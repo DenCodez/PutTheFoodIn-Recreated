@@ -6,4 +6,6 @@ This is the recreation of Put the Food In. I recreated it **ENTIRELY** and yeah.
 
 --
 Put this code inside your terminal:
-```python3 game_.py``
+```bash
+python3 game_.py
+```
